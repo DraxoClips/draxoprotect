@@ -62,7 +62,7 @@ EOF
 
 chmod 644 "$REMOTE_PATH"
 
-echo "âœ… Proteksi Anti Akses Server Controller berhasil dipasang!"
-echo "ðŸ“‚ Lokasi file: $REMOTE_PATH"
-echo "ðŸ—‚ï¸ Backup file lama: $BACKUP_PATH (jika sebelumnya ada)"
-echo "ðŸ”’ Hanya Admin (ID 1) yang bisa Akses Server Controller."
+echo "✅ Proteksi Anti Akses Server Controller berhasil dipasang!"
+echo "📂 Lokasi file: $REMOTE_PATH"
+echo "🗂️ Backup file lama: $BACKUP_PATH (jika sebelumnya ada)"
+echo "🔒 Hanya Admin (ID 1) yang bisa Akses Server Controller."
